@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Azure / deployment artifacts
+.azure/
+antenv/
